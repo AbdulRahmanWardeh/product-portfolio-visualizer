@@ -63,6 +63,8 @@ export default {
 			fontFamily: {
 				sans: ['Poppins', 'sans-serif'],
 				serif: ['"Sans Serif Collection"', 'serif'],
+				roboto: ['Roboto', 'sans-serif'],
+				poppins: ['Poppins', 'sans-serif'],
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
